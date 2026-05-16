@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://MC-AHOP.github.io/handbook-aqo7gr/sitemap.xml
